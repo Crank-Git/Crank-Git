@@ -5,6 +5,7 @@ I'm based in Florida. I like taking an idea about how a network could work and b
 ## Start here
 
 - [**Hydrascale**](https://github.com/Crank-Git/Hydrascale) ![Stars](https://img.shields.io/github/stars/Crank-Git/Hydrascale?style=flat&label=%E2%98%85&color=7ee787&labelColor=0d1117)<br>Runs multiple Tailscale tailnets at once on one Linux machine, with each in its own network namespace.
+- [**Stratum**](https://github.com/stratum-hq/Stratum) ![Stars](https://img.shields.io/github/stars/stratum-hq/Stratum?style=flat&label=%E2%98%85&color=7ee787&labelColor=0d1117)<br>Drop-in multi-tenancy for Node.js, with tenant hierarchy, config inheritance, permissions, audit, and GDPR in one library.
 - [**ja4plus-go**](https://github.com/Crank-Git/ja4plus-go) ![Stars](https://img.shields.io/github/stars/Crank-Git/ja4plus-go?style=flat&label=%E2%98%85&color=7ee787&labelColor=0d1117)<br>Independent Go library and CLI for JA4+ network fingerprinting.
 - [**ja4plus**](https://github.com/Crank-Git/ja4plus) ![Stars](https://img.shields.io/github/stars/Crank-Git/ja4plus?style=flat&label=%E2%98%85&color=7ee787&labelColor=0d1117)<br>The same idea in Python, as a library and CLI.
 
