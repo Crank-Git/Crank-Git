@@ -26,6 +26,8 @@ $ dig @127.0.0.1 -p 8053 +short TXT '2+3*4.calc.test'
 | [**cachemoney**](https://github.com/Crank-Git/cachemoney) | Content-addressed git objects, packages, and blobs, with resolvers acting as the CDN | Go |
 | [**llamaoverdns**](https://github.com/Crank-Git/llamaoverdns) | LLM answers in TXT records, with `dig` as the client | Python |
 | [**dnscalc**](https://github.com/Crank-Git/dnscalc) | Math. The query is the expression, and the answer is the result | Go |
+| [**qmux**](https://github.com/Crank-Git/qmux) | Whole application protocols, multiplexed over QCLASS, QTYPE, and QNAME | Go |
+| [**entropy53**](https://github.com/Crank-Git/entropy53) | drand randomness rounds, which the client verifies with a BLS signature, so the gateway isn't trusted | Go |
 
 ## Other packets
 
