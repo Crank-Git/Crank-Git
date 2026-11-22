@@ -38,7 +38,7 @@ $ dig @127.0.0.1 -p 8053 +short TXT '2+3*4.calc.test'
 
 ## Off-grid and everything else
 
-- [**ATAKMapDownloader**](https://github.com/Crank-Git/ATAKMapDownloader): downloads map tiles from 30+ sources and builds MBTiles databases for ATAK.
+- [**ATAK-Map-Downloader**](https://github.com/Crank-Git/ATAK-Map-Downloader): downloads map tiles from 52 built-in sources into MBTiles, OSMDroid, or GeoPackage files for ATAK, from a CLI or a web UI.
 - [**MTFWBuilder**](https://github.com/Crank-Git/MTFWBuilder): a self-hosted web app that builds Meshtastic firmware with your config already in it.
 - [**issue-flow-codex**](https://github.com/Crank-Git/issue-flow-codex): a Codex CLI port of the issue-flow plugin.
 - [**simpletetris**](https://github.com/Crank-Git/simpletetris) and [**simplebubblebobble**](https://github.com/Crank-Git/simplebubblebobble): ad-free games for iPhone Safari.
